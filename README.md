@@ -8,4 +8,4 @@
 * Le [sujet du TD](TD-sudoku.pdf) en format .pdf téléchargeable et imprimable.
 
 **Cliquez sur le lien ci-dessous pour faire votre fork privé du TD :**
-XXX
+https://classroom.github.com/a/DpqQX-JC
